@@ -35,5 +35,8 @@ Visual Studio Code Tips &amp; Tricks
 	"Auto use class"
 5. PHP Namespace Resolver
 	"Importing PHP Class"
+6. Laravel Intellisense
+	"Auto Suggest Laravel Class"
+7. Laravel Model Snippets
+	"Model Snippet"
 
-### 
