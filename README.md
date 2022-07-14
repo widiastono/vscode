@@ -39,4 +39,5 @@ Visual Studio Code Tips &amp; Tricks
 	"Auto Suggest Laravel Class"
 7. Laravel Model Snippets
 	"Model Snippet"
-
+8. Laravel goto view
+	"Go to View"
